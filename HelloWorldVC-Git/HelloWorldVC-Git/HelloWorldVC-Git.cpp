@@ -6,6 +6,11 @@
 
 int main()
 {
-    return 0;
+	printf("Hello World in Visual Studio for GIT!");
+
+	getchar();
+
+
+	return 0;
 }
 
